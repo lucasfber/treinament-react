@@ -1,0 +1,32 @@
+.button {
+    font-size: 12pt;
+    border: 1px solid;
+    margin : 4px;
+}
+
+.button-danger{
+ background: #cc0000;
+ color : #fff;
+}
+
+.button-success{
+ background: #4a8;
+ color : #fff;
+}
+
+.button-info{
+ background: #0000aa;
+ color : #fff;
+}
+
+.button-link{
+    border: 1px solid;
+    color : #000;
+    text-decoration: none;
+}
+
+.button-link:hover,
+.button-link:focus{
+    text-decoration: underline;
+    background-color: #ccc;
+}

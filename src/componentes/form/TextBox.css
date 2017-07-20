@@ -1,0 +1,22 @@
+.form-field{
+    display: inline-block;
+    padding: 0;
+    margin: 4px;
+}
+
+.text-box{
+    width: 100%;
+    border: 1px solid #888;
+}
+
+field-small{
+    width: 100px;
+}
+
+field-medium{
+    width: 160px;
+}
+
+field-big{
+    width: 300px;
+}
